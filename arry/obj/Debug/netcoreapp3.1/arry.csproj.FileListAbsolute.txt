@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\geet\details\arry\bin\Debug\netcoreapp3.1\arry.exe
+C:\Users\HP\Desktop\geet\details\arry\bin\Debug\netcoreapp3.1\arry.deps.json
+C:\Users\HP\Desktop\geet\details\arry\bin\Debug\netcoreapp3.1\arry.runtimeconfig.json
+C:\Users\HP\Desktop\geet\details\arry\bin\Debug\netcoreapp3.1\arry.runtimeconfig.dev.json
+C:\Users\HP\Desktop\geet\details\arry\bin\Debug\netcoreapp3.1\arry.dll
+C:\Users\HP\Desktop\geet\details\arry\bin\Debug\netcoreapp3.1\arry.pdb
+C:\Users\HP\Desktop\geet\details\arry\obj\Debug\netcoreapp3.1\arry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\geet\details\arry\obj\Debug\netcoreapp3.1\arry.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\geet\details\arry\obj\Debug\netcoreapp3.1\arry.AssemblyInfo.cs
+C:\Users\HP\Desktop\geet\details\arry\obj\Debug\netcoreapp3.1\arry.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\geet\details\arry\obj\Debug\netcoreapp3.1\arry.dll
+C:\Users\HP\Desktop\geet\details\arry\obj\Debug\netcoreapp3.1\arry.pdb
+C:\Users\HP\Desktop\geet\details\arry\obj\Debug\netcoreapp3.1\arry.genruntimeconfig.cache
